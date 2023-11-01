@@ -1,0 +1,22 @@
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\BankaHesabi\bin\Debug\BankaHesabi.exe.config
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\BankaHesabi\bin\Debug\BankaHesabi.exe
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\BankaHesabi\bin\Debug\BankaHesabi.pdb
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\BankaHesabi\obj\Debug\BankaHesabi.csproj.AssemblyReference.cache
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\BankaHesabi\obj\Debug\BankaHesabi.csproj.CoreCompileInputs.cache
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\BankaHesabi\obj\Debug\BankaHesabi.exe
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\BankaHesabi\obj\Debug\BankaHesabi.pdb
+C:\Users\vektorel\Desktop\BankaHesabi\bin\Debug\BankaHesabi.exe.config
+C:\Users\vektorel\Desktop\BankaHesabi\bin\Debug\BankaHesabi.exe
+C:\Users\vektorel\Desktop\BankaHesabi\bin\Debug\BankaHesabi.pdb
+C:\Users\vektorel\Desktop\BankaHesabi\obj\Debug\BankaHesabi.csproj.AssemblyReference.cache
+C:\Users\vektorel\Desktop\BankaHesabi\obj\Debug\BankaHesabi.csproj.SuggestedBindingRedirects.cache
+C:\Users\vektorel\Desktop\BankaHesabi\obj\Debug\BankaHesabi.csproj.CoreCompileInputs.cache
+C:\Users\vektorel\Desktop\BankaHesabi\obj\Debug\BankaHesabi.exe
+C:\Users\vektorel\Desktop\BankaHesabi\obj\Debug\BankaHesabi.pdb
+C:\Users\hy078\OneDrive\Masaüstü\BankaHesabi2\bin\Debug\BankaHesabi.exe.config
+C:\Users\hy078\OneDrive\Masaüstü\BankaHesabi2\bin\Debug\BankaHesabi.exe
+C:\Users\hy078\OneDrive\Masaüstü\BankaHesabi2\bin\Debug\BankaHesabi.pdb
+C:\Users\hy078\OneDrive\Masaüstü\BankaHesabi2\obj\Debug\BankaHesabi.csproj.AssemblyReference.cache
+C:\Users\hy078\OneDrive\Masaüstü\BankaHesabi2\obj\Debug\BankaHesabi.csproj.CoreCompileInputs.cache
+C:\Users\hy078\OneDrive\Masaüstü\BankaHesabi2\obj\Debug\BankaHesabi.exe
+C:\Users\hy078\OneDrive\Masaüstü\BankaHesabi2\obj\Debug\BankaHesabi.pdb
